@@ -2,7 +2,7 @@
 >These projects are the labs that were completed while taking EE128 at University of California, Riverside in Spring 2021 with Dr. Roman Chomko. The main purpose of the labs was to become familiar and comfortable using C to design motor interface principles: analog-to-digital and digital-to-analog conversion, Nyquist, and power constraints; and, design principles for instrumentation, embedded software, and real-time systems
 
 ## General
-The main purpose of these labs was to implement real-time systems based around the **ARM K64F** development board and the **Arduino Uno** board.
+The main purpose of these labs was to implement real-time systems based around the **ARM K64F** development board and the **Arduino Uno** board. Also working with a partner Nicolas FLores and working together to solve these problems despite being separated never meeting in person once. 
 
 Implemented Things like
 * Bi-directional, binary counter & an 8-bit, bi-directional, one-hot rotator.
